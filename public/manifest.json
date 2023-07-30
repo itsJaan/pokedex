@@ -1,0 +1,15 @@
+{
+  "short_name": "Pokedex_Javier_Nunez",
+  "name": "Pokedex by Javier Nunez for Job Application",
+  "icons": [
+    {
+      "src": "pokeball.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
